@@ -1,0 +1,31 @@
+{
+  "expo": {
+    "name": "attendanceApp",
+    "slug": "snack-094a6415-d321-4660-a819-b11676fe5351",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.testuser.attendanceApp"
+    },
+    "android": {
+      "package": "com.testuser.attendanceApp"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "description": "Student Attendance App"
+  }
+}
